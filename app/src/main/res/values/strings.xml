@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">moneyplaned</string>
+    <string name="default_notification_channel_id">test aghna</string>
+</resources>

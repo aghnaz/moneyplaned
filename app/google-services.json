@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "541838704502",
+    "firebase_url": "https://moneyplaned.firebaseio.com",
+    "project_id": "moneyplaned",
+    "storage_bucket": "moneyplaned.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541838704502:android:0a2690f893365634",
+        "android_client_info": {
+          "package_name": "id.smktelkom.sch.moneyplaned"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541838704502-lu2e92hfsao2tr0s1tqp48s4po588s5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.smktelkom.sch.moneyplaned",
+            "certificate_hash": "767f9c28ddc6e8fff697946f73c66a743dad1eec"
+          }
+        },
+        {
+          "client_id": "541838704502-nm9bao4ie02p8rk3jat93uhudm54tekt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXlMThQto9pHII3m1qwoUqDhrGVhYVGoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541838704502-nm9bao4ie02p8rk3jat93uhudm54tekt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
